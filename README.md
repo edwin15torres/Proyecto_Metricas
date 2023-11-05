@@ -33,13 +33,13 @@
 
 ## Configurar de SonarQube
 
-1. Abrir
+https://www.youtube.com/watch?v=6pLj3KVglFA 
+
+1. Abrir sonar-scanner-properties:
 
     - Abrir C:\Sonarqube\sonar-scanner-5.0.1.3006-windows\conf\sonar-scanner
 
 2. 
 
 
-
-
-    https://www.youtube.com/watch?v=6pLj3KVglFA
+    
