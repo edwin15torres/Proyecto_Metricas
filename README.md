@@ -39,7 +39,21 @@ https://www.youtube.com/watch?v=6pLj3KVglFA
 
     - Abrir C:\Sonarqube\sonar-scanner-5.0.1.3006-windows\conf\sonar-scanner
 
-2. Configuar sonar-scanner
+2. Configurar sonar-scanner
 
+3. Ir a D:\Uniandes\2023_Sem4_Ciclo2_Metricas\modernizacionsoft\microservicio1_users y escribir
+    **cmd** y se abrira lo siguiente
 
-    
+Microsoft Windows [Versión 10.0.19045.3570]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Sonarqube\modernizacionsoft\microservicio1_users>>
+
+3. Generar el token en la sección de "Security"
+
+4. Ir a la dirección URL y ejecutar "sonar-scanner -Dsonar.login=...  ..."
+
+Microsoft Windows [Versión 10.0.19045.3570]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Sonarqube\modernizacionsoft\microservicio1_users>sonar-scanner -Dsonar.login=squ_21984bcde668113c0de392bd6869dbe99dc52e4f
